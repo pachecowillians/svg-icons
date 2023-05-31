@@ -1,5 +1,9 @@
 # SVG Image Repository
 
+<p align="center">
+  <img src="img/svg.svg" alt="Arch Linux Logo" height="100px">
+</p>
+
 This repository serves as a storage space for SVG images that can be referenced and used in various projects. SVG (Scalable Vector Graphics) is a popular image format that allows for high-quality, scalable, and resolution-independent graphics.
 
 ## Purpose
